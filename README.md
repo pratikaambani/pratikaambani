@@ -4,6 +4,9 @@ I’m Pratik. I build lots of demos on this account. I work with LTI as Fullstac
 
 Read [my blogs](http://dev.to/pratikaambani/) or [follow @Pratik on Twitter where I mostly update Tech stuff](https://twitter.com/prageek_ambani).
 
+
+[![Gmail Badge](https://img.shields.io/badge/-pratikaambani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikaambani@gmail.com)](mailto:pratikaambani@gmail.com)
+
 <p align="center">
 	<a href="https://github.com/pratikaambani"><img src="https://img.shields.io/github/followers/pratikaambani.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://dev.to/pratikaambani"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
@@ -27,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=pratikaambani&show_icons=true&include_all_commits=true)](https://github.com/pratikaambani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikaambani&layout=compact)](https://github.com/pratikaambani/github-readme-stats)
+
