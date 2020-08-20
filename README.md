@@ -2,7 +2,7 @@
 
 I’m Pratik. I build lots of demos on this account. I work with LTI as Fullstack Developer. For more information about me (and a whole lot of my POCs), check out my git repositories.
 
-Read [my blog](http://dev.to/pratikaambani/) or [follow @Pratik on Twitter](https://twitter.com/prageek_ambani).
+Read [my blogs](http://dev.to/pratikaambani/) or [follow @Pratik on Twitter] where I mostly update Tech stuff(https://twitter.com/prageek_ambani).
 
 <p align="center">
 	<a href="https://github.com/pratikaambani"><img src="https://img.shields.io/github/followers/pratikaambani.svg?label=GitHub&style=social" alt="GitHub"></a>
