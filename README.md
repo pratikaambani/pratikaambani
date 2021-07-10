@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Pratik. I build lots of demos on this account. I work with LTI as Fullstack Developer. For more information about me (and a whole lot of my POCs), check out my git repositories.
+I’m Pratik. I build lots of demos on this account. I work with HSBC as Fullstack Developer. For more information about me (and a whole lot of my POCs), check out my git repositories.
 
 Read [my blogs](http://dev.to/pratikaambani/) or [follow @Pratik on Twitter where I mostly update Tech stuff](https://twitter.com/prageek_ambani).
 
