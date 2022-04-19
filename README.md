@@ -2,7 +2,7 @@
 
 I’m Pratik. I build lots of demos on this account. I work with HSBC as Fullstack Developer. For more information about me (and a whole lot of my POCs), check out my git repositories.
 
-Read [my tech blogs](http://dev.to/pratikaambani/) or [follow me on Twitter where I mostly update on Tech stuff](https://twitter.com/prageek_ambani).
+Read my [tech blogs](http://dev.to/pratikaambani/) or [follow me on Twitter](https://twitter.com/prageek_ambani) where I mostly update on Tech stuff.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-pratikaambani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pratikaambani@gmail.com)](mailto:pratikaambani@gmail.com)
