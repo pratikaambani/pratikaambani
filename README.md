@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=pratikaambani&show_icons=true&include_all_commits=true)](https://github.com/pratikaambani/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikaambani&layout=compact)](https://github.com/pratikaambani/github-readme-stats)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pratikaambani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pratikaambani?trk=profile-badge">Pratik Ambani</a></div>
+              
